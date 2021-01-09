@@ -1,4 +1,4 @@
-baseURL = "http://objective-johnson-4e76b5.netlify.app/"
+baseURL = "http://juan-fernandez.netlify.app"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
