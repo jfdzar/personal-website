@@ -12,6 +12,7 @@ categories = [
     "sys-admin"
 ]
 +++
+
 In this entry I would document some interesting linux commands to use in the raspberry pi
 
 * To see the history of commands you typed
@@ -88,4 +89,3 @@ rm -r foldername
 {{< highlight bash >}}
 scp pi@pisalamanca:/home/pi/ovpns/jfdzar_mobile.ovpn jfdzar_mobile.ovpn
 {{< /highlight >}}
-
