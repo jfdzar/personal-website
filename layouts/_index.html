@@ -1,0 +1,16 @@
+{{ define "right-sidebar" }}
+{{ partial "sidebar/right.html" . }}
+{{ end }}
+
+{{ define "main" }}
+{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
+<div class="container">
+    {{ partial "article/article.html" . }}
+
+</div>
+
+
+{{- partial "footer/footer" . -}}
+
+{{ end }}
