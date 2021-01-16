@@ -1,4 +1,5 @@
 +++
+draft = "false"
 author = "jfdzar"
 title = "Cheat Sheet RaspberryPi Linux"
 date = "2020-02-25"
