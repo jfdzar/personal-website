@@ -1,4 +1,5 @@
 +++
+draft = "false"
 author = "jfdzar"
 title = "Backup or Restore SD Card"
 date = "2020-02-25"
