@@ -97,7 +97,7 @@ params:
 menu:
     main:
         - identifier: home
-          name: Home/Blog
+          name: Home
           url: /
           weight: -100
           pre: home
@@ -108,17 +108,31 @@ menu:
           weight: -90
           pre: user
 
-        - identifier: contact
-          name: Contact
-          url: contact
+        - identifier: post
+          name: Blog
+          url: post
           weight: -80
-          pre: user        
+          pre: archives
+       
 
         - identifier: archives
           name: Archives
           url: archives
           weight: -70
           pre: archives
+
+        - identifier: contact
+          name: Contact
+          url: contact
+          weight: -60
+          pre: user 
+
+        - identifier: search
+          name: Search
+          url: search
+          weight: -50
+          pre: search 
+
 
 
 
