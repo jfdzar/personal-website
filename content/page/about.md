@@ -2,13 +2,8 @@
 title = "About"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "jfdzar"
-license = "CC BY-NC-ND"
-# description = "Welcome to Juan Fernandez Arias Personal Website"
-# date = "2019-02-28"
-# lastmod = "2020-10-09"
-draft = true
+draft = false
 +++
-
 
 
 Hi! I'm Juan. I am a Hardware Engineer developing medical products :wave:
