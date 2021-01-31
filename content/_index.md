@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my Website"
+title: "Welcome!"
 description: "Personal Website of Juan Fernandez Arias"
 author: "jfdzar"
 license: "CC BY-NC-ND"
@@ -14,5 +14,15 @@ I have always wanted to have a personal site to capture my interests and make a 
 
 You will find here details [About Me](about) and also ways of [Contacting Me](contact)
 
+![](lake.jpg) 
+
+
+
+
+
+
+
+
+ 
 
 
